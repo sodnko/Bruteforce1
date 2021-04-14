@@ -1,10 +1,6 @@
 # Bruteforce1
 Bruteforce-Passwordcracker
 
-Over 20k Passwords per second
-
-
-
 Installation
 ____________
 
