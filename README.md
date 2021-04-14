@@ -2,15 +2,16 @@
 Bruteforce-Passwordcracker
 
 Installation
-____________
+-------------
 
 Linux:
+........
 sudo apt update
 
 git clone https://github.com/sodnko/Bruteforce1.git
 
 Run with:
-_________
+-----------
 
 cd  Bruteforce1
 
