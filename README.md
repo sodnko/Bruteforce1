@@ -11,7 +11,9 @@ git clone https://github.com/sodnko/Bruteforce1.git
 
 Run with:
 _________
+
 cd  Bruteforce1
+
 python3 Bruteforce1.py
  
  "Input a number that is a password": -Number at your choice-
