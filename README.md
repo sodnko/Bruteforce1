@@ -5,7 +5,7 @@ Installation
 -------------
 
 Linux:
-........
+_______
 sudo apt update
 
 git clone https://github.com/sodnko/Bruteforce1.git
@@ -16,6 +16,7 @@ Run with:
 cd  Bruteforce1
 
 python3 Bruteforce1.py
+______________________
  
  "Input a number that is a password": -Number at your choice-
  
